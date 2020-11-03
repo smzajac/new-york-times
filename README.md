@@ -7,4 +7,4 @@ We have a simple API that returns a JSON feed of the [most popular New York Time
 You can access the API via the following link:  
 https://api.nytimes.com/svc/topstories/v2/science.json?api-key=Gwxln5M3geWlhR6UE0TY1FUWKSG3wCil
 
-Start by forking this repo. When you're finished send a link to your public fork.
+Start by forking this repo. When you're finished please send a link to your public fork.
