@@ -4,7 +4,7 @@ This repository serves as a plain, forkable starting point for your frontend cod
 
 In this challenge we would like you to access a JSON feed of the [most popular New York Times science articles](https://api.nytimes.com/svc/topstories/v2/science.json?api-key=Gwxln5M3geWlhR6UE0TY1FUWKSG3wCil) and use HTML, CSS and Javascript to create an interface to display them. Your solution should aim to fulfill the following requirements, in order of priority:
 1. Display a list of articles.
-1. Implement a search feature to dynamically filter articles by supplied terms.
+1. Implement a search feature to dynamically filter articles.
 1. Search terms should match against the following article attributes:
    1. title
    1. byline
